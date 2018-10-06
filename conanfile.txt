@@ -1,0 +1,15 @@
+[requires]
+Boost/1.60.0@nebula/stable
+OpenSSL/1.0.2f@nebula/stable
+bzip2/1.0.6@nebula/stable
+double-conversion/2.0.1.0@nebula/stable
+electric-fence/2.2.0@nebula/stable
+folly/v2016.12.19.00@nebula/stable
+gflags/2.1.2@nebula/stable
+glog/0.3.4@nebula/stable
+libevent/2.0.22@nebula/stable
+wangle/v2016.12.19.00@nebula/stable
+zlib/1.2.8@nebula/stable
+
+[generators]
+cmake
